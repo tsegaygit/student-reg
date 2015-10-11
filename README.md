@@ -1,2 +1,2 @@
-# student-reg
-Student Registration
+# Student Registration
+
